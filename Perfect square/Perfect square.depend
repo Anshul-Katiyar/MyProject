@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602570387 source:c:\users\anshul\desktop\perfect square\untitled1.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
